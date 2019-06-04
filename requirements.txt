@@ -1,0 +1,17 @@
+ruamel.yaml
+requests
+tendo
+colorama==0.3.9
+wheel==0.24.0
+Click
+click_completion
+yaspin
+PyInquirer
+deepmerge
+Pygments
+tabulate
+pydash
+pymongo
+geocoder
+bingmaps
+py-bing-maps
